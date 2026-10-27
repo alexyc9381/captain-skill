@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "captain-skill: claude calls you captain in every reply, and warns you the moment it stops"
+abstract: "A free Claude Code skill. One rule in CLAUDE.md makes Claude call you Captain in every reply; a Stop hook warns you the moment a reply comes back without it, the early sign that your rules have slipped out of focus (context rot) and it is time for a fresh chat."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/captain-skill"
+url: "https://chen.media"
+license: MIT
+version: "0.1.0"
+keywords:
+  - claude-code
+  - claude-skills
+  - hooks
+  - context-rot
+  - claude-md

@@ -1,0 +1,20 @@
+{
+  "name": "captain-skill",
+  "description": "The Captain check: Claude calls you \"Captain\" in every reply, and you get a warning the moment it stops, so you know your rules are slipping and it is time for a fresh chat. Free Claude Code skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alex Chen",
+    "url": "https://chen.media"
+  },
+  "homepage": "https://chen.media",
+  "repository": "https://github.com/alexyc9381/captain-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "hooks",
+    "context-rot",
+    "claude-md",
+    "rules"
+  ]
+}

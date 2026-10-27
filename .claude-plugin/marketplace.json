@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "captain-skill",
+  "description": "The Captain check for Claude Code",
+  "owner": {
+    "name": "Alex Chen"
+  },
+  "plugins": [
+    {
+      "name": "captain-skill",
+      "description": "Claude calls you \"Captain\" in every reply, and you get a warning the moment it stops: your rules are slipping and it is time for a fresh chat.",
+      "source": "./",
+      "category": "productivity",
+      "author": {
+        "name": "Alex Chen",
+        "url": "https://chen.media"
+      },
+      "homepage": "https://chen.media"
+    }
+  ]
+}
